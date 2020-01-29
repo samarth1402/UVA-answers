@@ -57,3 +57,4 @@ while (true)
 }
 
 
+//(45, 19) a/b > 1 comes 2 times
